@@ -1,11 +1,11 @@
 # Hi there 👋, my name is Kiprono.
 ### :raccoon: I am a curious Full-stack developer
-:man-bouncing-ball: Playing with Linux
+:man_playing_handball:  Playing with Linux
 
 >:man_student: I am currently a student at Microverse. I am curious knowing especially machine learning
 >:man_technologist: I am a Javascript fan
 
-<img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn"/>
+<img src="./giphy.gif"/>
 
 
 ### My Skills: HTML/ CSS/ JS/ PHP/ MYSQL/ Django
