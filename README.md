@@ -11,10 +11,10 @@
 
 - 🌱 I’m currently learning React and Ruby. 
 - 👯 I’m looking to collaborate on any open source project. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yishak-wesego-b404851a7/) 
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]: [@kiprono-japhet](https://www.linkedin.com/in/kiprono-japhet-85aab1220) 
      or
        Twitter: [@_kipronojaphet](https://twitter.com/@_kipronojaphet)
--You can also check my [portfolio](https://ksigei.github.io/portfolio2/) here
+-You can also check my portfolio [here](https://ksigei.github.io/portfolio2/)
 
 
 
