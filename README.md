@@ -5,7 +5,7 @@
 >:male-student: I am currently a student at Microverse. I am curious knowing especially machine learning
 >:javascript: I am a Javascript fan
 
-<img src="<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>>
+<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
 
 ### My Skills: HTML/ CSS/ JS/ PHP/ MYSQL/ Django
 
