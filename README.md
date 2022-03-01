@@ -11,14 +11,15 @@
 
 - 🌱 I’m currently learning React and Ruby. 
 - 👯 I’m looking to collaborate on any open source project. 
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]: [@kiprono-japhet](https://www.linkedin.com/in/kiprono-japhet-85aab1220) 
+- 📫 How to reach me: ! [LinkedIn]: [@kiprono-japhet](https://www.linkedin.com/in/kiprono-japhet-85aab1220) 
      or
        Twitter: [@_kipronojaphet](https://twitter.com/@_kipronojaphet)
 -You can also check my portfolio [here](https://ksigei.github.io/portfolio2/)
 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Wes-Isaac)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yishak-wesego-b404851a7//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/wes-isaac/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://wes-isaac.github.io/Portfolio/)  
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksigei)](https://github.com/ksigei/github-readme-stats)
