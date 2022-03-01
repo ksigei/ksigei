@@ -2,11 +2,11 @@
 ### :raccoon: I am a curious Full-stack developer
 :man-bouncing-ball: Playing with Linux
 
->:male-student: I am currently a student at Microverse. I am curious knowing especially machine learning
->:javascript: I am a Javascript fan
+>:man_student: I am currently a student at Microverse. I am curious knowing especially machine learning
+>:man_technologist: I am a Javascript fan
 
 <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn"/>
-:javascript:
+
 
 ### My Skills: HTML/ CSS/ JS/ PHP/ MYSQL/ Django
 
