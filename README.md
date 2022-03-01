@@ -6,7 +6,7 @@
 >:javascript: I am a Javascript fan
 
 <img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn"/>
-<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
+:javascript:
 
 ### My Skills: HTML/ CSS/ JS/ PHP/ MYSQL/ Django
 
