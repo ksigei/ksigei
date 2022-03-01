@@ -1,10 +1,11 @@
 # Hi there 👋, my name is Kiprono.
-### I am a curious Full-stack developer
+### :raccoon: I am a curious Full-stack developer
+:man-bouncing-ball: Playing with Linux
 
-> I am currently a student at Microverse. I am curious knowing especially machine learning
-> I am a Javascript fan
+>:male-student: I am currently a student at Microverse. I am curious knowing especially machine learning
+>:javascript: I am a Javascript fan
 
-<img src="./helloworld2.gif"/>
+<img src="<iframe src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>>
 
 ### My Skills: HTML/ CSS/ JS/ PHP/ MYSQL/ Django
 
@@ -17,9 +18,6 @@
 -You can also check my portfolio [here](https://ksigei.github.io/portfolio2/)
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksigei)](https://github.com/ksigei/github-readme-stats)
