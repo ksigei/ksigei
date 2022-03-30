@@ -18,7 +18,9 @@
        Twitter: [@_kipronojaphet](https://twitter.com/@_kipronojaphet)
 -You can also check my portfolio [here](https://ksigei.github.io/portfolio2/)
 
+### WEEKLY WAKATIME STATS &nbsp; <img src="./computer.png" height="40" align="justify"/>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ksigei&hide_border=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksigei)](https://github.com/ksigei/github-readme-stats)
